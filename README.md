@@ -3,6 +3,8 @@
 ## Overview
 
 Dataline AI is a powerful data analysis and visualization platform that leverages AI to provide insights and analysis capabilities. This document provides detailed information about the AI features and functionality available in the application.
+<img width="1129" height="722" alt="2026-03-21 18 05 47" src="https://github.com/user-attachments/assets/4f7b8b35-5957-40b1-8954-4fe5beff80df" />
+
 
 ## AI Features
 
